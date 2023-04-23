@@ -1,0 +1,7 @@
+1. สร้างโฟลเดอร์เพิ่ม (ชื่ออะไรก็ได้) ex. module
+2. ทำการโหลดไฟล์ ไปใส่ไว้ในโฟลเดอร์ที่สร้างไว้
+3. ทำการติดตั้ง package เพิ่มเติมดังนี้
+    - pip install MetaTrader5
+    - pip install DateTime
+4. ถ้ามี error ให้ลองทำการติดตั้ง package เพิ่มเติมตามที่ error แจ้ง
+5. import module.Atheriusmt5 as atr (as atr คือชื่อที่จะใช้งาน)
